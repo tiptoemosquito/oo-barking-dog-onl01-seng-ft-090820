@@ -13,4 +13,4 @@ class Dog
 end
 
 oppo = Dog.new
-oppo.bark
+oppo.name = "Oppo"
