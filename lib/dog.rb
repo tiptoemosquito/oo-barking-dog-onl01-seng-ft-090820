@@ -14,4 +14,3 @@ end
 
 oppo = Dog.new
 oppo.name = "Oppo"
-oppo.name
