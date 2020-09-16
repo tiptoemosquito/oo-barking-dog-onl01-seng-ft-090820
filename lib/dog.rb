@@ -11,3 +11,7 @@ class Dog
   end
 
 end
+
+oppo = Dog.new
+oppo.bark
+oppo.name
