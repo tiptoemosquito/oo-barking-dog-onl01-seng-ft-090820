@@ -12,6 +12,4 @@ class Dog
 
 end
 
-oppo = Dog.new
-oppo.name = "Oppo"
-oppo.bark
+
